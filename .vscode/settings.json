@@ -1,7 +1,10 @@
 {
   "files.exclude": {
-    ".next": true,
-    "**/.vscode": true,
-    "node_modules": true
+    "**/.DS_Store": false,
+    "**/.git": false,
+    "**/.hg": false,
+    "**/.svn": false,
+    "**/CVS": false,
+    "**/Thumbs.db": false
   }
 }
